@@ -11,10 +11,4 @@ public class PostRequest {
 		
 		
 
-	}
-	
-	public static void githubPostRequest() {
-		System.out.println("PostRequest");
-	}
 
-}
